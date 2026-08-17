@@ -33,5 +33,4 @@ I like taking projects from a blank repo to something people actually use: booki
 
 ---
 
-<p align="center"><em>Thanks for stopping by. Feel free to poke around the repos.</em>em></p>
-</em>
+*Thanks for stopping by. Feel free to poke around the repos.*

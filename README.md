@@ -2,7 +2,7 @@
 
 **Mobile & Web Developer** building across Flutter, .NET, TypeScript, and Python.
 
-I like taking projects from a blank repo to something people actually use — booking apps, dashboards, trackers, and the odd weekend build. Currently based in Malaysia, currently `🏠 working from home`.
+I like taking projects from a blank repo to something people actually use: booking apps, dashboards, trackers, and the odd weekend build. Currently based in Malaysia, currently `🏠 working from home`.
 
 ---
 
@@ -24,7 +24,7 @@ I like taking projects from a blank repo to something people actually use — bo
 
 | Project | What it is |
 |---|---|
-| [**AOI**](https://github.com/Sham1M8N/AOI) | Full-stack e-commerce app (ASP.NET Web Forms + SQL Server) — cart, stock-aware checkout, promo codes, admin panel |
+| [**AOI**](https://github.com/Sham1M8N/AOI) | Full-stack e-commerce app (ASP.NET Web Forms + SQL Server) with cart, stock-aware checkout, promo codes, and an admin panel |
 | [**Salon-Booking-System**](https://github.com/Sham1M8N/Salon-Booking-System) | Mobile app (Flutter/Dart) for booking and managing a salon |
 | [**simple-proxy**](https://github.com/Sham1M8N/simple-proxy) | Lightweight TypeScript proxy |
 | [**telegram-expense-tracker**](https://github.com/Sham1M8N/telegram-expense-tracker) | Python bot for tracking expenses straight from Telegram |
@@ -33,4 +33,5 @@ I like taking projects from a blank repo to something people actually use — bo
 
 ---
 
-<p align="center"><em>Thanks for stopping by — feel free to poke around the repos.</em></p>
+<p align="center"><em>Thanks for stopping by. Feel free to poke around the repos.</em>em></p>p>
+</em>

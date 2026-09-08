@@ -1,4 +1,4 @@
-# Hi, I'm Iman 👋
+# Hi, I'm Iman
 
 **Mobile & Web Developer** building across Flutter, .NET, TypeScript, and Python.
 
